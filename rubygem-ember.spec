@@ -6,7 +6,7 @@ Release:    %mkrel 1
 Summary:    eRuby template processor
 Group:      Development/Ruby
 License:    ISC License
-URL:        http://snk.tuxfamily.org/lib/ember/
+URL:        https://snk.tuxfamily.org/lib/ember/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
