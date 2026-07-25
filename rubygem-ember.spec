@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.3.0
-Release:    %mkrel 1
+Release:    2
 Summary:    eRuby template processor
 Group:      Development/Ruby
 License:    ISC License
